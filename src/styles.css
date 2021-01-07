@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+.seasonText{
+position: absolute;
+transform: translate(620px,220px);
+}
+
+.icon-Left{
+position: absolute;
+top: 10px;
+color: #72dbf0;
+left: 10px;
+}
+
+.icon-Right{
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  color: #63d8f0;
+  }
+  
